@@ -1,2 +1,3 @@
 Some text
 for GIT
+COMMIT 1 
